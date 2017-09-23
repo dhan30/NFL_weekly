@@ -25,18 +25,18 @@ h1 {
   margin-top: 10px;
   opacity: .7;
   color: yellow;
+  border-collapse: collapse;
+  overflow: hidden;
 }
 
+tr .pick-1 {
 
+}
+
+tr .pick-wrong {
+color: black;
+}
 
 .navbar {
   background-color: black;
-}
-
-.card-box {
-  width: 80%;
-  border: 2px solid red;
-  margin: auto;
-  margin-top: 5%;
-  height: 300px;
 }
