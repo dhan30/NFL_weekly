@@ -16,10 +16,10 @@
     <!-- NavBar -->
     <ul class="nav justify-content-end navbar">
       <li class="nav-item">
-      <a class="nav-link active" href="#">Home</a>
+      <a class="nav-link active" href="index.html">Home</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Rules</a>
+        <a class="nav-link" data-toggle="modal" href="#exampleModal">Rules</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Reference</a>
@@ -206,6 +206,35 @@
             </tbody>
           </table>
     </div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Rules:</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <ol>
+          <li>Player may only submit one sheet per week.</li>
+          <li>Money must be in before Sunday.</li>
+          <li>Picks must be made before picks.</li>
+          <li>Player with most correct picks win.</li>
+          <li>Tiebreak is total points combined for Monday night's game WITHOUT going over.</li>
+
+        </ol>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

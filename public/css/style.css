@@ -8,18 +8,29 @@ h1 {
   text-align: center;
 }
 
-/*td {
-  text-align: center;
-  color: black;
-  margin-left: 15px;
-  border: .5px solid black;
-  width: 100px;
-  font-family: 'Oswald', sans-serif;
-
-}*/
+a, button{
+  color: red;
+  outline: none;
+}
 
 #number-sign {
   width:10px ;
+}
+
+.modal-header {
+  background-color: black;
+  color: white;
+  opacity: .9;
+}
+
+.btn {
+  background: black;
+  text-decoration: none;
+  border: none;
+}
+
+.btn:hover {
+  background: grey;
 }
 
 #table-1 {
@@ -40,4 +51,5 @@ color: black;
 
 .navbar {
   background-color: black;
+
 }
