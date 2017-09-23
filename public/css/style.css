@@ -1,0 +1,42 @@
+body {
+  background-image: url("../images/nfl-background.png");
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+/*td {
+  text-align: center;
+  color: black;
+  margin-left: 15px;
+  border: .5px solid black;
+  width: 100px;
+  font-family: 'Oswald', sans-serif;
+
+}*/
+
+#number-sign {
+  width:10px ;
+}
+
+#table-1 {
+  margin-top: 10px;
+  opacity: .7;
+  color: yellow;
+}
+
+
+
+.navbar {
+  background-color: black;
+}
+
+.card-box {
+  width: 80%;
+  border: 2px solid red;
+  margin: auto;
+  margin-top: 5%;
+  height: 300px;
+}
