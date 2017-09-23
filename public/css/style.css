@@ -1,5 +1,6 @@
 body {
   background-image: url("../images/nfl-background.png");
+  background-repeat: no-repeat;
 }
 
 h1 {
