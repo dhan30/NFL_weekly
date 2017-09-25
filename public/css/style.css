@@ -52,3 +52,18 @@ color: black;
 .navbar {
   background-color: black;
 }
+
+/*name*/
+
+#name-david {
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+#name-tim {
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  
+}
