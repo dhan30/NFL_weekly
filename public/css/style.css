@@ -42,7 +42,7 @@ a, button{
 }
 
 tr .pick-1 {
-
+  color: blue;
 }
 
 tr .pick-wrong {
@@ -56,15 +56,12 @@ color: black;
 /* name*/
 
 #name-david {
-  color: black;
 }
 
 #name-anthony {
-  color: black;
 }
 
 #name-alejandro {
-  color: black;
 }
 
 #name-tim {
