@@ -1,5 +1,5 @@
 body {
-  background-image: url("../images/nfl-background.png");
+  background-image: url("../images/redskins.jpg");
   height: 100%;
 }
 
@@ -42,7 +42,7 @@ a, button{
 }
 
 tr .pick-1 {
-  color: blue;
+
 }
 
 tr .pick-wrong {
