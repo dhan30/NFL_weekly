@@ -48,6 +48,10 @@ tr .pick-wrong {
 color: black;
 }
 
+tr .pick-11 {
+  color: black;
+}
+
 .navbar {
   background-color: black;
 }
@@ -79,6 +83,7 @@ color: black;
 }
 
 #name-nick {
+
 }
 
 #name-pete {
