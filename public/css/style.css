@@ -1,10 +1,12 @@
 body {
-  background-image: url("../images/redskins.jpg");
+  /*background-image: url("../images/redskins.jpg");*/
+  background-color: white;
   height: 100%;
+  font-size: 20px;
 }
 
 h1 {
-  color: red;
+  color: BLACK;
   text-align: center;
 }
 
@@ -36,9 +38,18 @@ a, button{
 #table-1 {
   margin-top: 10px;
   opacity: .7;
-  color: yellow;
+  color: black;
   border-collapse: collapse;
   overflow: hidden;
+  background-color: white;
+  font-weight: bold;
+
+
+}
+
+tr .picks {
+  font-weight: normal;
+
 }
 
 tr .pick-1 {
@@ -49,7 +60,6 @@ color: black;
 }
 
 tr .pick-11 {
-  color: black;
 }
 
 .navbar {
@@ -63,7 +73,6 @@ tr .pick-11 {
 }
 
 #name-brian {
-  color: black;
 }
 
 #name-anthony {
@@ -71,15 +80,12 @@ tr .pick-11 {
 }
 
 #name-jack {
-  color: black;
 }
 
 #name-alejandro {
-  color: black;
 }
 
 #name-tim {
-  color: black;
 }
 
 #name-nick {
@@ -87,21 +93,16 @@ tr .pick-11 {
 }
 
 #name-pete {
-  color: black;
 }
 
 #name-sapna {
-  color: black;
 }
 
 #name-alex {
-  color: black;
 }
 
 #name-lee {
-  color: black;
 }
 
 #name-jeff {
-  color: black;
 }
