@@ -56,10 +56,11 @@ tr .pick-1 {
 }
 
 tr .pick-wrong {
-color: black;
+color: red;
 }
 
-tr .pick-11 {
+tr .pick-1 {
+  font-weight: bolder;
 }
 
 .navbar {
@@ -68,11 +69,11 @@ tr .pick-11 {
 
 /* name*/
 
+
 #name-david {
-
 }
-
 #name-brian {
+
 }
 
 #name-anthony {
@@ -89,13 +90,10 @@ tr .pick-11 {
 }
 
 #name-nick {
-
 }
 
 #name-pete {
-}
 
-#name-sapna {
 }
 
 #name-alex {
@@ -106,3 +104,8 @@ tr .pick-11 {
 
 #name-jeff {
 }
+
+#name-sapna {
+}
+
+/*winning and losing rows*/
