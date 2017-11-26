@@ -63,7 +63,7 @@ tr .pick-wrong {
 tr .pick-1 {
 }
 
-tr .pick-4, .pick-5, .pick-7, .pick-8, .pick-10, .pick-15 {
+tr .pick-15 {
   color: green;
   background-color: black;
 }
@@ -77,9 +77,11 @@ tr .pick-4, .pick-5, .pick-7, .pick-8, .pick-10, .pick-15 {
 
 #name-david {
   background-color: black;
+  color: grey;
 }
 #name-brian {
   background-color: black;
+  color: grey;
 
 }
 
@@ -98,7 +100,9 @@ tr .pick-4, .pick-5, .pick-7, .pick-8, .pick-10, .pick-15 {
 
 #name-nick {
   background-color: black;
-  
+  color: grey;
+
+
 }
 
 #name-pete {
@@ -110,6 +114,8 @@ tr .pick-4, .pick-5, .pick-7, .pick-8, .pick-10, .pick-15 {
 
 #name-lee {
   background-color: black;
+  color: grey;
+
 
 }
 
