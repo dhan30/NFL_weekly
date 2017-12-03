@@ -56,32 +56,23 @@ tr .pick-1 {
 }
 
 tr .pick-wrong {
-  color: red;
-  background-color:  black;
 }
 
 tr .pick-1 {
 }
 
 tr .pick-15 {
-  color: green;
-  background-color: black;
 }
 
 .navbar {
-  background-color: black;
 }
 
 /* name*/
 
 
 #name-david {
-  background-color: black;
-  color: grey;
 }
 #name-brian {
-  background-color: black;
-  color: grey;
 
 }
 
@@ -99,10 +90,6 @@ tr .pick-15 {
 }
 
 #name-nick {
-  background-color: black;
-  color: grey;
-
-
 }
 
 #name-pete {
@@ -113,9 +100,6 @@ tr .pick-15 {
 }
 
 #name-lee {
-  background-color: black;
-  color: grey;
-
 
 }
 
