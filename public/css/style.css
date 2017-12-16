@@ -58,6 +58,11 @@ tr .pick-1 {
 tr .pick-wrong {
 }
 
+tr .pick-right {
+  color: limegreen;
+}
+
+
 tr .pick-1 {
 }
 
